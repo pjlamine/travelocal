@@ -1,0 +1,19 @@
+{
+  "name": "travelocal",
+  "version": "1.0.0",
+  "description": "Alex Martin's MVP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjlamine/travelocal.git"
+  },
+  "author": "Paul Lamine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pjlamine/travelocal/issues"
+  },
+  "homepage": "https://github.com/pjlamine/travelocal#readme"
+}
