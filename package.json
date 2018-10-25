@@ -4,7 +4,8 @@
   "description": "Alex Martin's MVP",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/pjlamine/travelocal/issues"
   },
-  "homepage": "https://github.com/pjlamine/travelocal#readme"
+  "homepage": "https://github.com/pjlamine/travelocal#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.8",
+    "mongoose": "^5.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
 }
